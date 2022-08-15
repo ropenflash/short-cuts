@@ -1,0 +1,6 @@
+alias k="kubectl"
+alias kt="kafka-topics"
+alias kcc="kafka-console-consumer"
+alias kcp="kafka-console-producer"
+alias kcg="kafka-consumer-groups"
+alias gcm="git commit"
